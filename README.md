@@ -19,8 +19,11 @@ Secure Configuration Uses .xcconfig and Info.plist for managing API keys securel
 
 **Tech Stack**
 Language: Swift
+
 Frameworks: UIKit, Nuke
+
 API: Instagram Graph API
+
 Networking: URLSession + JSON Decoding
 
 **How it Works**
